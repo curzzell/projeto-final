@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    text-align: center;
+    <font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#imagem_fundo {
+    background: url("imggg.jpg");
+    height: 100%;
+    text-align: center;
+    background-image: cover;
+}
+#titulo {
+    color: white;
+    padding-top: 20%;
+    
+}
+#subtitulo {
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px solid white;
+    text-shadow: 1px 1px  black;
+}
+#acao {
+    color: black;
+    border: 2px black;
+    padding: 10px 20px 10px 20px ;
+}
+.icone {
+    width: 51px;
+   background-color: #5BBDB8; 
+}
+section {
+    padding: 20px;
+}
+.destaque {
+    background-color: #f7f7f7;
+}
+.imgeco {
+    width: 90%;
+}
